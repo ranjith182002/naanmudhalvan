@@ -1,0 +1,16 @@
+{
+  "name": "grocery-website",
+  "version": "1.0.0",
+  "description": "This is a website of an online grocery shopping platform developed using HTML, CSS and JS. This project involves only frontend coding languages. This was a group project and we will try to make it better. Any feedbacks are welcome on the project. One last thing, I am uploading the images used in this project but we have added the images using the URLs so there should be no need to add them again but still, for reference, we will be uploading the images.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
